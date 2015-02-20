@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 $open=0;
 $k=0;
 $start=2101;
